@@ -1,5 +1,7 @@
 # log
 
-When I work on open source projects, I publish my notes here.
+When I work on open source projects, I try to publish my notes here.
 
- - [January 2018](2019-1.md)
+### 2018
+ - [January](2019-1.md)
+ - [March](2019-3.md)
