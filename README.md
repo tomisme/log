@@ -1,9 +1,10 @@
 # log
 
-When I work on open projects, I try to publish my notes here.
+When I work on open projects I try to publish my notes here.
 
-### 2018
- - [January](2019-1.md)
- - [March](2019-3.md)
- - [May](2019-5.md)
- - [June](2019-6.md)
+### 2019
+ - [January](/logs/2019-1.md)
+ - [March](/logs/2019-3.md)
+ - [May](/logs/2019-5.md)
+ - [June](/logs/2019-6.md)
+ - [October](/logs/2019-10.md)
