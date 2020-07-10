@@ -3,7 +3,7 @@
 When I work on open projects I try to publish my notes here.
 
 ### 2020
- - [July](/logs/2020-7md)
+ - [July](/logs/2020-7.md)
 
 ### 2019
  - [January](/logs/2019-1.md)
