@@ -2,6 +2,9 @@
 
 When I work on open projects I try to publish my notes here.
 
+### 2022
+ - [November](/logs/2022-7.md)
+
 ### 2020
  - [July](/logs/2020-7.md)
  - [August](/logs/2020-8.md)
